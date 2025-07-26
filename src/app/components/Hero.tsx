@@ -10,7 +10,7 @@ export default function Hero() {
   // Function to handle WhatsApp button click
   const handleWhatsAppClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
-    window.open('https://wa.me/85894827684', '_blank');
+    window.open('https://wa.me/85770216133', '_blank');
   };
 
   return (
@@ -133,7 +133,7 @@ export default function Hero() {
                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
               >
                 <a
-                  href="https://wa.me/85894827684"
+                  href="https://wa.me/85770216133"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleWhatsAppClick}
