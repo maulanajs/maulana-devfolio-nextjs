@@ -488,7 +488,7 @@ export default function About() {
                 
                 <motion.div variants={fadeInUp} className="mt-4 sm:mt-8">
                   <a 
-                    href="https://drive.google.com/file/d/1xhRlqjrcxku8JUuuDYbccKxHGyHj-ZxX/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1CbTl2uMp2JO2Wi2wvsrYyB6YmGpAE-ri/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-gradient-to-r from-primary to-secondary text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg font-medium hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
